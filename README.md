@@ -1,1 +1,1 @@
-# RNN-Mnist
+Recurrent neural network solved using MNIST
